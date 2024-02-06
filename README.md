@@ -22,7 +22,11 @@ It has feature of updating the profile data in myprofile page button
 # step-6 
 we can separate the user post at myblog option on the menu button
 # It is the responsive website
-![image](https://github.com/Rupam1210/blog-app-front/assets/145320098/00eb60dc-054d-42e6-bdeb-f59e723fdafb) --> ![image](https://github.com/Rupam1210/blog-app-front/assets/145320098/fb8529ad-8b85-4d68-8977-7dd05a7d8958) --> ![image](https://github.com/Rupam1210/blog-app-front/assets/145320098/d21516b9-941a-4788-9b87-d4b8a2fcd51c)
+![image](https://github.com/Rupam1210/blog-app-front/assets/145320098/00eb60dc-054d-42e6-bdeb-f59e723fdafb) --> ![image](https://github.com/Rupam1210/blog-app-front/assets/145320098/fb8529ad-8b85-4d68-8977-7dd05a7d8958) --> ![image](https://github.com/Rupam1210/blog-app-front/assets/145320098/d21516b9-941a-4788-9b87-d4b8a2fcd51c)-->![image](https://github.com/Rupam1210/blog-app-front/assets/145320098/071bd7bb-71df-4220-8c3c-2461b5035c66)-->![image](https://github.com/Rupam1210/blog-app-front/assets/145320098/3f07c814-a329-47e5-9d7a-231879970d6c)-->![image](https://github.com/Rupam1210/blog-app-front/assets/145320098/bc43c9ff-da93-4bdf-96d5-3b5734f08137)-->![image](https://github.com/Rupam1210/blog-app-front/assets/145320098/1e8d9464-fc34-4df8-90e5-9cca54a9ffe4)
+
+
+
+
 
 
 
