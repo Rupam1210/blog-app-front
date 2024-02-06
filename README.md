@@ -22,7 +22,8 @@ It has feature of updating the profile data in myprofile page button
 # step-6 
 we can separate the user post at myblog option on the menu button
 # It is the responsive website
-![image](https://github.com/Rupam1210/blog-app-front/assets/145320098/00eb60dc-054d-42e6-bdeb-f59e723fdafb) ![image](https://github.com/Rupam1210/blog-app-front/assets/145320098/fb8529ad-8b85-4d68-8977-7dd05a7d8958)
+![image](https://github.com/Rupam1210/blog-app-front/assets/145320098/00eb60dc-054d-42e6-bdeb-f59e723fdafb) --> ![image](https://github.com/Rupam1210/blog-app-front/assets/145320098/fb8529ad-8b85-4d68-8977-7dd05a7d8958) --> ![image](https://github.com/Rupam1210/blog-app-front/assets/145320098/d21516b9-941a-4788-9b87-d4b8a2fcd51c)
+
 
 
 
